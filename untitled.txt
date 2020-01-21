@@ -1,0 +1,18 @@
+link for laravel5 login
+https://www.cloudways.com/blog/laravel-login-authentication/
+
+link for laravel3 login
+https://vegibit.com/how-to-create-user-registration-in-laravel/
+
+link for git
+https://www.tutsmake.com/upload-project-files-on-github-using-command-line/
+
+link for git clone
+https://www.git-tower.com/learn/git/commands/git-clone
+
+------------------------------
+file change
+../views/checklogin.blade.php
+app/Https/Controllers/MainController.php
+laravel/resources/views/create.blade.php
+laravel/routes/web.php
